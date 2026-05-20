@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bismillah-flow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bismillah Flow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bismillah-flow/) |
+| **Get License** | [Get License For Bismillah Flow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bismillah-flow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਨਿੰਮ੍ਹੀ ਰੌਸ਼ਨੀ 'ਚ ਤੇਰਾ ਪਰਛਾਵਾਂ catch my eye
+> ਤੇਰੇ ਸਾਹਾਂ ਦੀ ਗਰਮਾਹਟ ਤੱਕੇ night sky
+> ਮੈਂ ਤੈਨੂੰ ਤੱਕਦਾ ਹਾਂ ਰੁਕ ਕੇ ਇੱਥੇ feel the heat
+> ਤੇਰੀ ਚੁੱਪ ਵਿੱਚ ਵੀ ਵੱਜਦੀ ਏ ਮੇਰੀ heart beat
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
