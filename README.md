@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bismillah-flow/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bismillah Flow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bismillah-flow/) |
+| **Get License** | [Official Music Licensing for Bismillah Flow](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bismillah-flow/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8fdf1c84a0a18db1883a2411834b00af2242518b9cb99843d66e40b94a4e5140` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
